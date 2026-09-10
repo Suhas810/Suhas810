@@ -44,7 +44,7 @@ Building immersive games, intelligent applications, and scalable cloud solutions
 <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </a>
 
-<a href="https://personal-portfolio-kappa-cyan-99.vercel.app/">
+<a href="https://suhas-portfolio-five.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
