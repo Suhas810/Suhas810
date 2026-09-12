@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suhas810/Suhas810/main/assests/banner.jpeg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Suhas810/Suhas810/main/assests/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#58A6FF;">Suhas G</span></h1>
