@@ -2,8 +2,6 @@
 
 <!--                 SUHAS G - GITHUB PROFILE              -->
 
-<!--                    PART 1 : HERO                      -->
-
 <!-- ===================================================== -->
 
 <p align="center">
@@ -13,11 +11,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#58A6FF;">Suhas G</span></h1>
 
 <h3 align="center">
-🎮 Game Developer • 🤖 AI Engineer • ☁️ Cloud Enthusiast • 💻 Full Stack Developer
+💻 Software Developer • 🤖 AI Engineer • ☁️ Cloud Enthusiast
 </h3>
 
 <p align="center">
-Building immersive games, intelligent applications, and scalable cloud solutions with a passion for solving real-world problems.
+Building intelligent applications, scalable software, and cloud-powered solutions with a passion for solving real-world problems.
 </p>
 
 <p align="center">
@@ -58,11 +56,13 @@ Building immersive games, intelligent applications, and scalable cloud solutions
 
 ## 🚀 Engineering Profile
 
-I'm **Suhas G**, a Computer Science Engineering student passionate about creating software that blends **Game Development**, **Artificial Intelligence**, **Cloud Computing**, and **Modern Web Technologies**.
+I'm **Suhas G**, a Computer Science Engineering student passionate about building software across **Software Development, Artificial Intelligence, Cloud Computing, and Modern Web Technologies**.
 
-I enjoy transforming ideas into polished digital experiences—from immersive Unity games to AI-powered applications and scalable full-stack platforms. My goal is to build software that is not only technically strong but also meaningful and impactful.
+I enjoy transforming ideas into practical digital products — from intelligent AI-powered applications and modern web platforms to scalable cloud-based systems.
 
-Driven by curiosity and continuous learning, I'm constantly exploring new technologies, contributing to developer communities, and building projects that challenge me to grow as an engineer.
+Driven by curiosity and continuous learning, I'm constantly exploring new technologies, improving my engineering skills, participating in hackathons, contributing to developer communities, and building projects that challenge me to grow.
+
+> **My goal:** Become a strong software engineer capable of building intelligent, scalable, and impactful technology.
 
 ---
 
@@ -70,6 +70,7 @@ Driven by curiosity and continuous learning, I'm constantly exploring new techno
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🚀 AWS Student Builder Group Leader
@@ -77,6 +78,7 @@ Driven by curiosity and continuous learning, I'm constantly exploring new techno
 * Organizing cloud-focused learning sessions
 * Promoting AWS technologies on campus
 * Helping students start their cloud journey
+* Encouraging hands-on cloud learning
 
 </td>
 
@@ -87,11 +89,14 @@ Driven by curiosity and continuous learning, I'm constantly exploring new techno
 * Encouraging competitive programming
 * Supporting coding culture
 * Helping peers improve problem-solving skills
+* Promoting technical learning
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
 ### 🌐 Google Developer Profile
@@ -104,9 +109,10 @@ Actively learning and engaging with the global developer ecosystem through Googl
 
 ### 🏆 Hackathons & Open Source
 
-Passionate about hackathons, collaborative development, and continuously improving through hands-on projects.
+Passionate about hackathons, collaborative development, open-source projects, and learning through hands-on engineering.
 
 </td>
+
 </tr>
 </table>
 
@@ -115,16 +121,15 @@ Passionate about hackathons, collaborative development, and continuously improvi
 # 🎯 Areas of Interest
 
 <table>
-
 <tr>
 
 <td align="center" width="25%">
 
-### 🎮
+### 💻
 
-**Game Development**
+**Software Development**
 
-Unity • C# • Gameplay Systems • Game Design
+Application Development • Backend • APIs • System Design
 
 </td>
 
@@ -144,22 +149,21 @@ Machine Learning • AI Applications • Intelligent Systems
 
 **Cloud Computing**
 
-AWS • Docker • Cloud Infrastructure
+AWS • Docker • Cloud Infrastructure • DevOps
 
 </td>
 
 <td align="center" width="25%">
 
-### 💻
+### 🧠
 
 **Software Engineering**
 
-Full Stack Development • Backend • APIs
+Architecture • Problem Solving • Scalable Systems
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -167,7 +171,7 @@ Full Stack Development • Backend • APIs
 # 💡 What I'm Currently Doing
 
 ```text
-🎮 Developing Unity Projects
+💻 Building Software Applications
 
 🤖 Exploring AI & Machine Learning
 
@@ -177,9 +181,11 @@ Full Stack Development • Backend • APIs
 
 ⚡ Studying Kubernetes
 
-🚀 Building Full Stack Applications
+🌐 Building Modern Web Applications
 
 📚 Learning System Design
+
+🧠 Exploring AI Agents & LLM Applications
 
 💙 Contributing to Developer Communities
 ```
@@ -198,25 +204,6 @@ Full Stack Development • Backend • APIs
 
 ---
 
-## 🎮 Game Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=unity,blender"/>
-
-</p>
-
-**Currently Exploring**
-
-* Unity Engine
-* C#
-* Game Physics
-* Animation Systems
-* Game UI
-* Multiplayer Concepts
-
----
-
 ## 🌐 Frontend
 
 <p>
@@ -231,7 +218,7 @@ Full Stack Development • Backend • APIs
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python"/>
 
 </p>
 
@@ -264,7 +251,9 @@ Full Stack Development • Backend • APIs
 * TensorFlow
 * OpenCV
 * Scikit-learn
-* AI Agents (Learning)
+* AI Agents
+* Large Language Models
+* Intelligent Applications
 
 ---
 
@@ -280,20 +269,11 @@ Full Stack Development • Backend • APIs
 
 > 💬 **"Code with curiosity. Build with purpose. Learn continuously."**
 
-<!-- ========================= -->
-
-<!-- END OF PART 1            -->
-
-<!-- ========================= -->
-<!-- ===================================================== -->
-
-<!--                 PART 2 : PROJECTS                     -->
-
-<!-- ===================================================== -->
+---
 
 # 🚀 Featured Projects
 
-> *A selection of projects that reflect my passion for software engineering, AI, cloud technologies, and game development.*
+> *A selection of projects that reflect my interests in software engineering, artificial intelligence, cloud technologies, and real-world problem solving.*
 
 <table>
 <tr>
@@ -302,18 +282,18 @@ Full Stack Development • Backend • APIs
 
 ### 🏥 Smart Hospital System
 
-A modern healthcare platform designed to simplify hospital management through AI-assisted workflows, appointment scheduling, and intelligent resource management.
+A modern healthcare platform designed to simplify hospital management through intelligent workflows, appointment management, and resource management.
 
 **✨ Highlights**
 
-* 🤖 AI-powered healthcare features
-* 🏥 Smart patient management
-* 📊 Hospital resource tracking
-* 🌐 Responsive web application
+* 🤖 AI-assisted healthcare features
+* 🏥 Patient management
+* 📊 Hospital resource management
+* 🌐 Web-based application
 
 **🛠 Tech Stack**
 
-`React` • `Node.js` • `Firebase` • `AI`
+`HTML` • `JavaScript` • `Firebase` • `AI`
 
 </td>
 
@@ -321,14 +301,14 @@ A modern healthcare platform designed to simplify hospital management through AI
 
 ### 🧬 AI Drug Discovery
 
-An AI-driven research platform focused on drug prediction, disease analysis, and biomedical data exploration using machine learning.
+An AI-focused project exploring machine learning applications for drug discovery, disease analysis, and biomedical data.
 
 **✨ Highlights**
 
 * 🤖 Machine Learning
 * 📈 Data Analysis
 * 🧠 Prediction Models
-* 🔬 Biomedical Research
+* 🔬 AI for healthcare research
 
 **🛠 Tech Stack**
 
@@ -342,39 +322,41 @@ An AI-driven research platform focused on drug prediction, disease analysis, and
 
 <td width="50%">
 
-### 🎮 Unity Game Projects
+### 👨‍🎓 Student Database Management System
 
-A growing collection of game development experiments built with Unity, focusing on gameplay mechanics, UI systems, and immersive player experiences.
+My **first academic software project**, built as a modern web-based system for managing student information and academic data.
 
 **✨ Highlights**
 
-* 🎮 Gameplay Systems
-* 🎨 UI & Animation
-* ⚡ Performance Optimization
-* 🕹 Interactive Experiences
+* 👨‍🎓 Student Information Management
+* 🗄️ Firebase Database
+* 🔐 Google OAuth Authentication
+* 🌐 Modern TypeScript Frontend
+* ⚙️ RESTful Backend Services
 
 **🛠 Tech Stack**
 
-`Unity` • `C#` • `Blender`
+`React` • `TypeScript` • `Vite` • `Node.js` • `Express.js` • `Firebase` • `Google OAuth`
+
 
 </td>
 
 <td width="50%">
 
-### 📊 Venture Intel
+### 🚑 Disaster Management AI
 
-A startup intelligence platform that helps users discover companies, market trends, and emerging business opportunities.
+An AI-oriented software project focused on applying intelligent technologies to disaster-management challenges and real-world emergency scenarios.
 
 **✨ Highlights**
 
-* 📊 Startup Insights
-* 🌍 Market Research
-* 📈 Analytics Dashboard
-* 🔍 Search & Discovery
+* 🤖 AI-powered solutions
+* 🚨 Disaster management
+* 📊 Data-driven decision making
+* 🌍 Real-world problem solving
 
 **🛠 Tech Stack**
 
-`React` • `Node.js` • `Firebase`
+`JavaScript` • `AI` • `Web Technologies`
 
 </td>
 
@@ -386,16 +368,15 @@ A startup intelligence platform that helps users discover companies, market tren
 # 🌱 Currently Building
 
 <table>
-
 <tr>
 
 <td width="33%" align="center">
 
-## 🎮
+## 💻
 
-### Game Development
+### Software Development
 
-Learning Unity while building gameplay mechanics, interactive systems, and immersive experiences.
+Building practical applications while improving backend development, APIs, architecture, and system design skills.
 
 </td>
 
@@ -405,7 +386,7 @@ Learning Unity while building gameplay mechanics, interactive systems, and immer
 
 ### AI Engineering
 
-Developing AI-powered applications using Machine Learning and Large Language Models.
+Developing AI-powered applications and exploring Machine Learning, LLMs, and AI Agents.
 
 </td>
 
@@ -415,12 +396,11 @@ Developing AI-powered applications using Machine Learning and Large Language Mod
 
 ### Cloud Engineering
 
-Exploring AWS, Docker, Kubernetes, and scalable cloud-native applications.
+Exploring AWS, Docker, Kubernetes, CI/CD, and scalable cloud-native applications.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -472,25 +452,25 @@ Exploring AWS, Docker, Kubernetes, and scalable cloud-native applications.
 │
 2024
 │
-├── 💻 Built Full Stack Applications
+├── 💻 Built Software Applications
 ├── 🏆 Participated in Hackathons
 │
 2025
 │
 ├── 🤖 Started AI Projects
-├── ☁️ Learning AWS Cloud
+├── ☁️ Started Learning AWS Cloud
 │
 2026
 │
 ├── 🚀 Community Leadership
-├── 🎮 Game Development
 ├── 🧠 AI Engineering
 ├── ☁️ Cloud Computing
 ├── 🌍 Open Source
+├── 💻 Software Engineering
 │
 Future
 │
-└── 🚀 Software Engineer | Game Developer 
+└── 🚀 Software Engineer | AI Engineer
 ```
 
 ---
@@ -501,13 +481,13 @@ Future
 
 🚀 Active member of developer communities.
 
-🎮 Exploring modern game development.
-
-🤖 Interested in Artificial Intelligence & Intelligent Systems.
+🤖 Exploring Artificial Intelligence & Intelligent Systems.
 
 ☁️ Learning scalable cloud architecture.
 
-💻 Building responsive full-stack applications.
+💻 Building modern software applications.
+
+🧠 Interested in system design and scalable engineering.
 
 🌍 Open to collaboration on exciting projects.
 
@@ -518,14 +498,13 @@ Future
 # 🌟 What Makes Me Different?
 
 <table>
-
 <tr>
 
 <td>
 
 ### 🎯 Problem Solver
 
-I enjoy solving real-world problems through clean, scalable software engineering.
+I enjoy solving real-world problems through clean, practical, and scalable software engineering.
 
 </td>
 
@@ -533,7 +512,7 @@ I enjoy solving real-world problems through clean, scalable software engineering
 
 ### 🚀 Continuous Learner
 
-Always exploring emerging technologies and improving my technical expertise.
+Always exploring emerging technologies and continuously improving my technical expertise.
 
 </td>
 
@@ -553,12 +532,11 @@ Actively contributing to student developer communities and peer learning.
 
 ### 💡 Innovation Driven
 
-Combining creativity and engineering to build meaningful digital products.
+Combining creativity, technology, and engineering to build meaningful digital products.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -567,16 +545,7 @@ Combining creativity and engineering to build meaningful digital products.
 
 > **"Great software isn't just written—it is carefully designed, continuously improved, and built to make a lasting impact."**
 
-<!-- ========================= -->
-
-<!-- END OF PART 2            -->
-
-<!-- ========================= -->
-<!-- ===================================================== -->
-
-<!--                 PART 3 : FINAL SECTION                -->
-
-<!-- ===================================================== -->
+---
 
 # 🎯 2026 Roadmap
 
@@ -585,15 +554,17 @@ Combining creativity and engineering to build meaningful digital products.
 
 <td align="center" width="25%">
 
-### 🎮
+### 💻
 
-### Game Development
+### Software Development
 
-✔ Build polished Unity projects
+✔ Build impactful applications
 
-✔ Learn multiplayer networking
+✔ Improve backend engineering
 
-✔ Publish my first indie game
+✔ Learn system design
+
+✔ Strengthen DSA
 
 </td>
 
@@ -608,6 +579,8 @@ Combining creativity and engineering to build meaningful digital products.
 ✔ Learn AI Agents
 
 ✔ Explore LLMs
+
+✔ Improve Machine Learning skills
 
 </td>
 
@@ -637,6 +610,8 @@ Combining creativity and engineering to build meaningful digital products.
 
 ✔ Software Engineering Internship
 
+✔ Participate in Hackathons
+
 ✔ Build impactful products
 
 </td>
@@ -653,14 +628,14 @@ Combining creativity and engineering to build meaningful digital products.
 
 <td>
 
-### 🎮 Game Development
+### 💻 Software Engineering
 
-* Unity Engine
-* C#
-* Game Physics
-* Animation Systems
-* Shader Graph
-* Multiplayer Concepts
+* System Design
+* Design Patterns
+* Clean Architecture
+* Backend Scalability
+* REST APIs
+* Data Structures & Algorithms
 
 </td>
 
@@ -673,6 +648,7 @@ Combining creativity and engineering to build meaningful digital products.
 * AI Agents
 * Prompt Engineering
 * Large Language Models
+* Intelligent Applications
 
 </td>
 
@@ -689,18 +665,20 @@ Combining creativity and engineering to build meaningful digital products.
 * Kubernetes
 * GitHub Actions
 * DevOps Fundamentals
+* Cloud Architecture
 
 </td>
 
 <td>
 
-### 💻 Software Engineering
+### 🌐 Modern Development
 
-* System Design
-* Design Patterns
-* Clean Architecture
-* Backend Scalability
-* REST APIs
+* React
+* Next.js
+* Node.js
+* TypeScript
+* API Development
+* Modern Web Architecture
 
 </td>
 
@@ -713,12 +691,12 @@ Combining creativity and engineering to build meaningful digital products.
 
 <div align="center">
 
-| Role                                | Description                                                                                    |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🚀 AWS Student Builder Group Leader | Promoting cloud learning, organizing workshops, and helping students explore AWS technologies. |
-| 💙 HackerRank Campus Crew           | Encouraging competitive programming and building a stronger coding culture on campus.          |
-| 🌐 Google Developer Program Member  | Learning through Google's developer ecosystem and expanding my technical knowledge.            |
-| 🏆 Hackathon Participant            | Solving real-world challenges through collaborative innovation and rapid prototyping.          |
+| Role                                    | Description                                                                                    |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 🚀 **AWS Student Builder Group Leader** | Promoting cloud learning, organizing workshops, and helping students explore AWS technologies. |
+| 💙 **HackerRank Campus Crew**           | Encouraging competitive programming and building a stronger coding culture on campus.          |
+| 🌐 **Google Developer Program Member**  | Learning through Google's developer ecosystem and expanding technical knowledge.               |
+| 🏆 **Hackathon Participant**            | Solving real-world challenges through collaborative innovation and rapid prototyping.          |
 
 </div>
 
@@ -729,9 +707,10 @@ Combining creativity and engineering to build meaningful digital products.
 * ☁️ AWS Cloud Learning
 * 🌐 Google Developer Program
 * 💻 Continuous Software Engineering Learning
-* 🎮 Unity Game Development
 * 🤖 Artificial Intelligence & Machine Learning
-* 📚 Exploring Modern Software Architecture
+* 📚 Modern Software Architecture
+* 🧠 AI Agents & LLM Technologies
+* 🚀 Cloud & DevOps Technologies
 
 ---
 
@@ -739,15 +718,15 @@ Combining creativity and engineering to build meaningful digital products.
 
 > ### "Great software is built with curiosity, refined through consistency, and measured by the value it creates."
 
-I believe that technology should make life simpler, smarter, and more engaging. Every project I work on is an opportunity to learn something new, improve my skills, and build solutions that create a meaningful impact.
+I believe technology should make life **simpler, smarter, and more useful**.
+
+Every project I work on is an opportunity to learn something new, improve my engineering skills, understand real-world problems, and create solutions that provide meaningful value.
 
 ---
 
 # 🌍 Beyond Programming
 
 ✨ Exploring emerging technologies
-
-🎮 Creating game prototypes
 
 🤖 Experimenting with AI applications
 
@@ -758,6 +737,8 @@ I believe that technology should make life simpler, smarter, and more engaging. 
 🏆 Joining hackathons
 
 🤝 Collaborating on open-source projects
+
+🧠 Exploring new ideas and technologies
 
 ☕ Enjoying coffee while debugging ☕
 
@@ -779,7 +760,7 @@ I believe that technology should make life simpler, smarter, and more engaging. 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://personal-portfolio-kappa-cyan-99.vercel.app/">
+<a href="https://suhas-portfolio-five.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -789,42 +770,46 @@ I believe that technology should make life simpler, smarter, and more engaging. 
 
 # 📊 Profile Summary
 
-```text id="4i56m4"
+```text
 👨‍💻 Name             : Suhas G
 
-🎮 Primary Domain   : Game Development
+💻 Primary Domain    : Software Development
 
-🤖 Secondary Domain : Artificial Intelligence
+🤖 Specialization    : Artificial Intelligence
 
-☁️ Cloud            : AWS
+☁️ Cloud             : AWS
 
-💻 Stack            : Full Stack Development
+🌐 Web                : Modern Web Technologies
 
-🚀 Leadership       : AWS SBG Leader
+🧠 Focus             : AI Engineering & Intelligent Systems
 
-💙 Community        : HackerRank Campus Crew
+🚀 Leadership        : AWS SBG Leader
 
-🌐 Developer        : Google Developer Program Member
+💙 Community         : HackerRank Campus Crew
 
-📍 Location         : Karnataka, India
+🌐 Developer         : Google Developer Program Member
 
-🎯 Goal             : Software Engineer | Game Developer | AI Engineer
+📍 Location          : Karnataka, India
+
+🎯 Goal              : Software Engineer | AI Engineer
 ```
 
 ---
 
 # 📈 Fun Facts
 
-```text id="0u9k0v"
-🎮 I enjoy building games that combine creativity and technology.
-
-🤖 I love experimenting with Artificial Intelligence.
+```text
+🤖 I enjoy experimenting with Artificial Intelligence.
 
 ☁️ Cloud computing fascinates me because of its scalability.
 
-💻 Every new project is an opportunity to learn something new.
+💻 I enjoy turning ideas into working software.
+
+🧠 Every new project is an opportunity to learn something new.
 
 🚀 I believe consistency beats perfection.
+
+📚 I enjoy continuously exploring new technologies.
 ```
 
 ---
