@@ -408,39 +408,24 @@ Exploring AWS, Docker, Kubernetes, CI/CD, and scalable cloud-native applications
 # 📊 GitHub Dashboard
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhas810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas810&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="./assets/contributions.svg" alt="GitHub Contributions" width="100%">
 </p>
-
----
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Suhas810&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Suhas810">
+<img src="https://img.shields.io/github/followers/Suhas810?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/Suhas810?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Suhas810">
+<img src="https://img.shields.io/github/stars/Suhas810?style=for-the-badge&logo=github&label=Stars"/>
+</a>
 
 </p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhas810&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhas810&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</p>
-
 ---
 
 # 📈 Development Journey
