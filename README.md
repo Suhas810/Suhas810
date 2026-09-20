@@ -1,318 +1,277 @@
 <!-- ===================================================== -->
 
-<!--                 SUHAS G - GITHUB PROFILE              -->
+<!--                    SUHAS G - GITHUB                    -->
 
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suhas810/Suhas810/main/assests/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Suhas810/Suhas810/main/assests/banner.png"
+       alt="Suhas G Banner"
+       width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#58A6FF;">Suhas G</span></h1>
-
-<h3 align="center">
-💻 Software Developer • 🤖 AI Engineer • ☁️ Cloud Enthusiast
-</h3>
+<h1 align="center">Hi 👋, I'm Suhas G</h1>
 
 <p align="center">
-Building intelligent applications, scalable software, and cloud-powered solutions with a passion for solving real-world problems.
+  <strong>Computer Science Engineering Student | Software Development | AI & Data Science</strong>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Suhas810">
-<img src="https://img.shields.io/github/followers/Suhas810?style=for-the-badge&logo=github&label=Followers&color=181717"/>
-</a>
-
-<a href="https://github.com/Suhas810">
-<img src="https://img.shields.io/github/stars/Suhas810?style=for-the-badge&logo=github&label=Stars&color=f59e0b"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Suhas810&style=for-the-badge&color=0ea5e9"/>
-
+  Building practical software applications and exploring intelligent, data-driven solutions.
 </p>
 
 <p align="center">
+  <a href="https://github.com/Suhas810">
+    <img src="https://img.shields.io/github/followers/Suhas810?style=flat-square&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Suhas810">
+    <img src="https://img.shields.io/github/stars/Suhas810?style=flat-square&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Suhas810&style=flat-square" alt="Profile Views">
+</p>
 
-<a href="https://www.linkedin.com/in/suhas-g-16b3aa340">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://g.dev/suhasgopalakrishna">
-<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</a>
-
-<a href="https://suhas-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Suhas810">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhas-g-16b3aa340">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://g.dev/suhasgopalakrishna">
+    <img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Developer">
+  </a>
+  <a href="https://suhas-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-## 🚀 Engineering Profile
+## 👨‍💻 About Me
 
-I'm **Suhas G**, a Computer Science Engineering student passionate about building software across **Software Development, Artificial Intelligence, Cloud Computing, and Modern Web Technologies**.
+I'm **Suhas G**, a Computer Science Engineering student focused on **software development, artificial intelligence, and data science**.
 
-I enjoy transforming ideas into practical digital products — from intelligent AI-powered applications and modern web platforms to scalable cloud-based systems.
+I enjoy building practical applications that solve real-world problems while developing strong fundamentals in software engineering, backend development, databases, and AI/ML.
 
-Driven by curiosity and continuous learning, I'm constantly exploring new technologies, improving my engineering skills, participating in hackathons, contributing to developer communities, and building projects that challenge me to grow.
+Currently, I'm focused on:
 
-> **My goal:** Become a strong software engineer capable of building intelligent, scalable, and impactful technology.
+* Building full-stack software applications
+* Developing AI and data-driven applications
+* Strengthening backend and REST API development
+* Improving Data Structures & Algorithms
+* Learning software architecture and system design
+* Exploring cloud and DevOps technologies
+* Participating in hackathons and developer communities
+* Learning through hands-on projects and open-source development
 
----
-
-## 🌟 Community & Leadership
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚀 AWS Student Builder Group Leader
-
-* Organizing cloud-focused learning sessions
-* Promoting AWS technologies on campus
-* Helping students start their cloud journey
-* Encouraging hands-on cloud learning
-
-</td>
-
-<td width="50%">
-
-### 💙 HackerRank Campus Crew
-
-* Encouraging competitive programming
-* Supporting coding culture
-* Helping peers improve problem-solving skills
-* Promoting technical learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🌐 Google Developer Profile
-
-Actively learning and engaging with the global developer ecosystem through Google's developer programs.
-
-</td>
-
-<td>
-
-### 🏆 Hackathons & Open Source
-
-Passionate about hackathons, collaborative development, open-source projects, and learning through hands-on engineering.
-
-</td>
-
-</tr>
-</table>
+> **Goal:** Grow into a strong software engineer capable of building reliable, scalable, and intelligent applications.
 
 ---
 
-# 🎯 Areas of Interest
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Software Development**
-
-Application Development • Backend • APIs • System Design
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Artificial Intelligence**
-
-Machine Learning • AI Applications • Intelligent Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Cloud Computing**
-
-AWS • Docker • Cloud Infrastructure • DevOps
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Software Engineering**
-
-Architecture • Problem Solving • Scalable Systems
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💡 What I'm Currently Doing
-
-```text
-💻 Building Software Applications
-
-🤖 Exploring AI & Machine Learning
-
-☁️ Learning AWS Cloud Services
-
-🐳 Working with Docker
-
-⚡ Studying Kubernetes
-
-🌐 Building Modern Web Applications
-
-📚 Learning System Design
-
-🧠 Exploring AI Agents & LLM Applications
-
-💙 Contributing to Developer Communities
-```
-
----
-
-# 🛠️ Engineering Stack
+# 🛠️ Technical Skills
 
 ## 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages">
 </p>
+
+`Python` · `Java` · `C++` · `C` · `JavaScript` · `TypeScript`
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend Technologies">
 </p>
+
+`React` · `TypeScript` · `Vite` · `HTML` · `CSS` · `Tailwind CSS`
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 </p>
+
+`Node.js` · `Express.js` · `Flask` · `REST APIs`
 
 ---
 
-## 🗄️ Database
+## 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" alt="Database Technologies">
 </p>
+
+`MySQL` · `Firebase` · `PostgreSQL`
+
+---
+
+## 🤖 AI & Data Science
+
+`Python` · `Machine Learning` · `Data Analysis` · `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `LLM Applications` · `AI Agents`
 
 ---
 
 ## ☁️ Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" alt="Cloud and DevOps">
 </p>
 
----
-
-## 🤖 AI & Machine Learning
-
-* Python
-* Machine Learning
-* TensorFlow
-* OpenCV
-* Scikit-learn
-* AI Agents
-* Large Language Models
-* Intelligent Applications
+`AWS` · `Docker` · `GitHub Actions` · `Linux` · `Kubernetes`
 
 ---
 
-## 🧰 Tools & Platforms
+## 🧰 Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools">
 </p>
 
----
-
-> 💬 **"Code with curiosity. Build with purpose. Learn continuously."**
+`Git` · `GitHub` · `VS Code` · `Postman` · `Figma`
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
-> *A selection of projects that reflect my interests in software engineering, artificial intelligence, cloud technologies, and real-world problem solving.*
+## 🏥 Smart Hospital System
+
+A full-stack healthcare management application designed to simplify hospital workflows and manage patients, appointments, and hospital resources.
+
+### Key Features
+
+* Patient management
+* Appointment management
+* Hospital resource management
+* AI-assisted healthcare features
+* Web-based application architecture
+* Backend API services
+
+### Tech Stack
+
+`React` · `Node.js` · `Express.js` · `PostgreSQL`
+
+---
+
+## 🧬 AI Drug Discovery Platform
+
+An AI-focused project exploring the application of machine learning and computational techniques to drug discovery and biomedical data.
+
+### Key Areas
+
+* Machine learning
+* Biomedical data analysis
+* Prediction models
+* Molecular data processing
+* AI-assisted drug discovery workflows
+
+### Tech Stack
+
+`Python` · `Machine Learning` · `RDKit` · `Streamlit`
+
+---
+
+## 👨‍🎓 Student Database Management System
+
+A full-stack academic project for managing student information and academic data through a modern web application.
+
+### Key Features
+
+* Student information management
+* Firebase database integration
+* Google OAuth authentication
+* TypeScript-based frontend
+* RESTful backend services
+* Modern responsive interface
+
+### Tech Stack
+
+`React` · `TypeScript` · `Vite` · `Node.js` · `Express.js` · `Firebase` · `Google OAuth`
+
+---
+
+## 🚑 Disaster Management AI
+
+An AI-oriented software project exploring technology-driven approaches to disaster management and emergency-response challenges.
+
+### Key Areas
+
+* AI-powered solutions
+* Disaster management
+* Data-driven decision making
+* Emergency-response concepts
+* Real-world problem solving
+
+### Tech Stack
+
+`JavaScript` · `AI` · `Web Technologies`
+
+---
+
+# 🧠 AI & Data Science Program
+
+## 🌏 GCI World 2026 — The University of Tokyo
+
+Participating in **GCI World 2026**, an international AI and data science education program developed by the **Matsuo-Iwasawa Laboratory at The University of Tokyo**.
+
+The program provides hands-on learning in data science, Python, machine learning, and practical applications of data. The 2026 curriculum includes NumPy, Pandas, Matplotlib, supervised learning, model evaluation, feature engineering, SQL, unsupervised learning, and time-series analysis.
+
+### Focus Areas
+
+* Python for Data Science
+* NumPy
+* Pandas
+* Data Cleaning
+* Data Visualization
+* Supervised Learning
+* Model Evaluation
+* Feature Engineering
+* SQL
+* Unsupervised Learning
+* Time-Series Analysis
+* Data Science Competition
+* Practical Business Applications
+
+### Program
+
+**GCI World 2026 — September**
+
+**Organization:** Matsuo-Iwasawa Laboratory, The University of Tokyo
+
+**Domain:** AI & Data Science
+
+---
+
+# 🌱 Currently Learning
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Smart Hospital System
+### 💻 Software Engineering
 
-A modern healthcare platform designed to simplify hospital management through intelligent workflows, appointment management, and resource management.
-
-**✨ Highlights**
-
-* 🤖 AI-assisted healthcare features
-* 🏥 Patient management
-* 📊 Hospital resource management
-* 🌐 Web-based application
-
-**🛠 Tech Stack**
-
-`HTML` • `JavaScript` • `Firebase` • `AI`
+* Data Structures & Algorithms
+* REST API Development
+* Backend Architecture
+* System Design Fundamentals
+* Design Patterns
+* Clean Architecture
+* Scalable Applications
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧬 AI Drug Discovery
+### 🤖 Artificial Intelligence
 
-An AI-focused project exploring machine learning applications for drug discovery, disease analysis, and biomedical data.
-
-**✨ Highlights**
-
-* 🤖 Machine Learning
-* 📈 Data Analysis
-* 🧠 Prediction Models
-* 🔬 AI for healthcare research
-
-**🛠 Tech Stack**
-
-`Python` • `TensorFlow` • `OpenCV`
+* Machine Learning
+* Deep Learning
+* Data Science
+* LLM Applications
+* AI Agents
+* Prompt Engineering
 
 </td>
 
@@ -320,43 +279,29 @@ An AI-focused project exploring machine learning applications for drug discovery
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👨‍🎓 Student Database Management System
+### ☁️ Cloud & DevOps
 
-My **first academic software project**, built as a modern web-based system for managing student information and academic data.
-
-**✨ Highlights**
-
-* 👨‍🎓 Student Information Management
-* 🗄️ Firebase Database
-* 🔐 Google OAuth Authentication
-* 🌐 Modern TypeScript Frontend
-* ⚙️ RESTful Backend Services
-
-**🛠 Tech Stack**
-
-`React` • `TypeScript` • `Vite` • `Node.js` • `Express.js` • `Firebase` • `Google OAuth`
-
+* AWS
+* Docker
+* Kubernetes
+* GitHub Actions
+* CI/CD
+* Cloud Architecture
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚑 Disaster Management AI
+### 🌐 Modern Development
 
-An AI-oriented software project focused on applying intelligent technologies to disaster-management challenges and real-world emergency scenarios.
-
-**✨ Highlights**
-
-* 🤖 AI-powered solutions
-* 🚨 Disaster management
-* 📊 Data-driven decision making
-* 🌍 Real-world problem solving
-
-**🛠 Tech Stack**
-
-`JavaScript` • `AI` • `Web Technologies`
+* React
+* TypeScript
+* Node.js
+* API Development
+* Modern Web Architecture
+* Full-Stack Development
 
 </td>
 
@@ -365,80 +310,60 @@ An AI-oriented software project focused on applying intelligent technologies to 
 
 ---
 
-# 🌱 Currently Building
+# 🤝 Leadership & Community
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 💻
-
-### Software Development
-
-Building practical applications while improving backend development, APIs, architecture, and system design skills.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🤖
-
-### AI Engineering
-
-Developing AI-powered applications and exploring Machine Learning, LLMs, and AI Agents.
-
-</td>
-
-<td width="33%" align="center">
-
-## ☁️
-
-### Cloud Engineering
-
-Exploring AWS, Docker, Kubernetes, CI/CD, and scalable cloud-native applications.
-
-</td>
-
-</tr>
-</table>
+| Role                                    | Contribution                                                           |
+| --------------------------------------- | ---------------------------------------------------------------------- |
+| 🚀 **AWS Student Builder Group Leader** | Promoting cloud learning and helping students explore AWS technologies |
+| 💙 **HackerRank Campus Crew**           | Encouraging competitive programming and coding culture                 |
+| 🌐 **Google Developer Program Member**  | Learning through Google's developer ecosystem                          |
+| 🏆 **Hackathon Participant**            | Working on real-world problems through collaborative development       |
 
 ---
 
-# 📊 GitHub Dashboard
+# 🏆 Hackathons & Open Source
+
+I enjoy learning through **hackathons, collaborative projects, and open-source development**.
+
+These experiences help me:
+
+* Work with unfamiliar technologies
+* Understand real-world problem statements
+* Build prototypes under constraints
+* Collaborate with other developers
+* Improve problem-solving skills
+* Learn from practical engineering challenges
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering — Computer Science & Engineering
+
+**Jain Institute of Technology, Davangere**
+
+**Visvesvaraya Technological University (VTU)**
+
+Expected Graduation: **2028**
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Suhas810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="Suhas GitHub Stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhas810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas810&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas810&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages">
 
 </p>
 
----
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Suhas810&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhas810&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhas810&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
+  <img src="https://streak-stats.demolab.com?user=Suhas810&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak">
 </p>
 
 ---
@@ -448,237 +373,60 @@ Exploring AWS, Docker, Kubernetes, CI/CD, and scalable cloud-native applications
 ```text
 2023
 │
-├── 🌱 Started Programming
+├── Started Programming
 │
 2024
 │
-├── 💻 Built Software Applications
-├── 🏆 Participated in Hackathons
+├── Built Software Applications
+├── Participated in Hackathons
 │
 2025
 │
-├── 🤖 Started AI Projects
-├── ☁️ Started Learning AWS Cloud
+├── Started AI Projects
+├── Explored Cloud Technologies
 │
 2026
 │
-├── 🚀 Community Leadership
-├── 🧠 AI Engineering
-├── ☁️ Cloud Computing
-├── 🌍 Open Source
-├── 💻 Software Engineering
+├── Software Engineering
+├── AI & Data Science
+├── GCI World 2026
+├── Cloud & DevOps
+├── Developer Community Leadership
+└── Open Source
 │
 Future
 │
-└── 🚀 Software Engineer | AI Engineer
+└── Software Engineer | AI Engineer
 ```
 
 ---
 
-# 💼 Professional Highlights
-
-✨ Passionate about building impactful software.
-
-🚀 Active member of developer communities.
-
-🤖 Exploring Artificial Intelligence & Intelligent Systems.
-
-☁️ Learning scalable cloud architecture.
-
-💻 Building modern software applications.
-
-🧠 Interested in system design and scalable engineering.
-
-🌍 Open to collaboration on exciting projects.
-
-📚 Lifelong learner and technology enthusiast.
-
----
-
-# 🌟 What Makes Me Different?
+# 🎯 Current Focus
 
 <table>
 <tr>
 
-<td>
+<td width="33%" align="center">
 
-### 🎯 Problem Solver
+### 💻 Software Development
 
-I enjoy solving real-world problems through clean, practical, and scalable software engineering.
-
-</td>
-
-<td>
-
-### 🚀 Continuous Learner
-
-Always exploring emerging technologies and continuously improving my technical expertise.
+Building practical applications while improving backend development, APIs, architecture, and problem-solving.
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+### 🤖 AI & Data Science
 
-<td>
-
-### 🤝 Community Builder
-
-Actively contributing to student developer communities and peer learning.
+Developing AI-powered applications and strengthening machine learning and data science fundamentals.
 
 </td>
 
-<td>
-
-### 💡 Innovation Driven
-
-Combining creativity, technology, and engineering to build meaningful digital products.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💬 Favorite Quote
-
-> **"Great software isn't just written—it is carefully designed, continuously improved, and built to make a lasting impact."**
-
----
-
-# 🎯 2026 Roadmap
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-### Software Development
-
-✔ Build impactful applications
-
-✔ Improve backend engineering
-
-✔ Learn system design
-
-✔ Strengthen DSA
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-### Artificial Intelligence
-
-✔ Build AI-powered applications
-
-✔ Learn AI Agents
-
-✔ Explore LLMs
-
-✔ Improve Machine Learning skills
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-### Cloud
-
-✔ AWS Certification
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ CI/CD
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-### Career
-
-✔ Open Source
-
-✔ Software Engineering Internship
-
-✔ Participate in Hackathons
-
-✔ Build impactful products
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌱 Currently Learning
-
-<table>
-<tr>
-
-<td>
-
-### 💻 Software Engineering
-
-* System Design
-* Design Patterns
-* Clean Architecture
-* Backend Scalability
-* REST APIs
-* Data Structures & Algorithms
-
-</td>
-
-<td>
-
-### 🤖 Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* AI Agents
-* Prompt Engineering
-* Large Language Models
-* Intelligent Applications
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
+<td width="33%" align="center">
 
 ### ☁️ Cloud Engineering
 
-* AWS
-* Docker
-* Kubernetes
-* GitHub Actions
-* DevOps Fundamentals
-* Cloud Architecture
-
-</td>
-
-<td>
-
-### 🌐 Modern Development
-
-* React
-* Next.js
-* Node.js
-* TypeScript
-* API Development
-* Modern Web Architecture
+Learning cloud infrastructure, containers, CI/CD, and scalable application deployment.
 
 </td>
 
@@ -687,145 +435,49 @@ Combining creativity, technology, and engineering to build meaningful digital pr
 
 ---
 
-# 🏆 Leadership & Community
+# 💡 Engineering Principles
 
-<div align="center">
-
-| Role                                    | Description                                                                                    |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🚀 **AWS Student Builder Group Leader** | Promoting cloud learning, organizing workshops, and helping students explore AWS technologies. |
-| 💙 **HackerRank Campus Crew**           | Encouraging competitive programming and building a stronger coding culture on campus.          |
-| 🌐 **Google Developer Program Member**  | Learning through Google's developer ecosystem and expanding technical knowledge.               |
-| 🏆 **Hackathon Participant**            | Solving real-world challenges through collaborative innovation and rapid prototyping.          |
-
-</div>
-
----
-
-# 📜 Certifications & Learning Journey
-
-* ☁️ AWS Cloud Learning
-* 🌐 Google Developer Program
-* 💻 Continuous Software Engineering Learning
-* 🤖 Artificial Intelligence & Machine Learning
-* 📚 Modern Software Architecture
-* 🧠 AI Agents & LLM Technologies
-* 🚀 Cloud & DevOps Technologies
-
----
-
-# 💡 My Engineering Philosophy
-
-> ### "Great software is built with curiosity, refined through consistency, and measured by the value it creates."
-
-I believe technology should make life **simpler, smarter, and more useful**.
-
-Every project I work on is an opportunity to learn something new, improve my engineering skills, understand real-world problems, and create solutions that provide meaningful value.
-
----
-
-# 🌍 Beyond Programming
-
-✨ Exploring emerging technologies
-
-🤖 Experimenting with AI applications
-
-📚 Reading engineering blogs
-
-🎤 Participating in technical communities
-
-🏆 Joining hackathons
-
-🤝 Collaborating on open-source projects
-
-🧠 Exploring new ideas and technologies
-
-☕ Enjoying coffee while debugging ☕
+```text
+Build practical solutions.
+Learn by building.
+Keep improving fundamentals.
+Write maintainable code.
+Understand the problem before the technology.
+Stay curious.
+```
 
 ---
 
 # 📬 Let's Connect
 
+I'm always interested in connecting with developers, students, builders, and communities working on interesting technology projects.
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/suhas-g-16b3aa340">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://g.dev/suhasgopalakrishna">
-<img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer">
 </a>
 
 <a href="https://github.com/Suhas810">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://suhas-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 </p>
 
 ---
 
-# 📊 Profile Summary
-
-```text
-👨‍💻 Name             : Suhas G
-
-💻 Primary Domain    : Software Development
-
-🤖 Specialization    : Artificial Intelligence
-
-☁️ Cloud             : AWS
-
-🌐 Web                : Modern Web Technologies
-
-🧠 Focus             : AI Engineering & Intelligent Systems
-
-🚀 Leadership        : AWS SBG Leader
-
-💙 Community         : HackerRank Campus Crew
-
-🌐 Developer         : Google Developer Program Member
-
-📍 Location          : Karnataka, India
-
-🎯 Goal              : Software Engineer | AI Engineer
-```
-
----
-
-# 📈 Fun Facts
-
-```text
-🤖 I enjoy experimenting with Artificial Intelligence.
-
-☁️ Cloud computing fascinates me because of its scalability.
-
-💻 I enjoy turning ideas into working software.
-
-🧠 Every new project is an opportunity to learn something new.
-
-🚀 I believe consistency beats perfection.
-
-📚 I enjoy continuously exploring new technologies.
-```
-
----
-
-# ⭐ Thanks for Visiting!
-
 <p align="center">
-
-### 🚀 *Let's build something amazing together.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-
+  <i>Building. Learning. Improving.</i>
 </p>
 
-<!-- ===================================================== -->
-
-<!--                    END OF README                      -->
-
-<!-- ===================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" alt="Footer">
+</p>
