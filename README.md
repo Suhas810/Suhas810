@@ -348,23 +348,19 @@ Expected Graduation: **2028**
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Suhas810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-       alt="Suhas GitHub Stats">
+<div align="center">
 
-<img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas810&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Suhas810&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Suhas GitHub Stats" />
 
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Suhas810&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suhas810&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak">
-</p>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Suhas810&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
